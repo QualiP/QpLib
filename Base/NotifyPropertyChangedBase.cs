@@ -1,3 +1,14 @@
+/*
+    Date      :     Monday, June 13, 2016
+    Author    :     QualiP (https://github.com/QualiP)
+    Objective :     
+    Version   :     1.0
+*/
+
+
+
+
+
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
